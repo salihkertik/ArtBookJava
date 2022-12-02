@@ -6,7 +6,7 @@ The architectures I used in this project are as follows;
 
 - SQLite
 - Launcher
-- Permission ~~asks permission to enter the gallery
+- Permissions ~~asks permission to enter the gallery
 - RecyclerView
 
 
